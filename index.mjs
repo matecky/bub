@@ -42,7 +42,7 @@ async function getDeobfuscatedScript() {
 
     //#https://thetvapp.to/build/assets/app-6a4b6fce.js
     const scriptUrl = `https://thetvapp.to/build/assets/app-${codeVersion}.js`
-	
+    console.info(scriptUrl)
 	
 	
 
