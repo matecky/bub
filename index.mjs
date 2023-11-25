@@ -49,7 +49,7 @@ async function getDeobfuscatedScript() {
     const obfuscatedScript = await fetch(scriptUrl, {headers: headers}).then(async (x) => await x.text())
 
     const firstTry = await deobfuscationChain(obfuscatedScript, [webcrackStep, synchronyStep])
-  \\  if (checkDeobfs(firstTry)) return firstTry
+  //  if (checkDeobfs(firstTry)) return firstTry
 
     const secondTry = await deobfuscationChain(obfuscatedScript, [synchronyStep])
     return secondTry
