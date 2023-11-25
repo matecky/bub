@@ -1,0 +1,825 @@
+function w(n, x) {
+  const u = [
+    'XDSsd',
+    'nMCoU',
+    '/token/',
+    'Vnodc',
+    '1FIdwkI',
+    'getElementById',
+    'RzGpz',
+    '?quality=',
+    'amwUX',
+    'DceNW',
+    'KeChe',
+    'uzmzr',
+    'dxsKj',
+    'email',
+    'ksZSk',
+    'addEventListener',
+    'guhBJ',
+    'GLdtH',
+    'rCsHX',
+    'btn-primary',
+    'LgiYK',
+    'dKUYp',
+    'reEyQ',
+    'btn-secondary',
+    'IHdeZ',
+    'acSrS',
+    'OhudX',
+    'xBzcS',
+    '1744650zrGbyE',
+    'EZLMz',
+    'Zwvgx',
+    'cHfKE',
+    '486048nNxHsp',
+    'gSIXx',
+    'ZBxuN',
+    'Player encountered an error:',
+    'JmobN',
+    'Wpgci',
+    'AGrrg',
+    '40DdcAzz',
+    'XRCJs',
+    'classList',
+    'json',
+    '33631851ZRNyjI',
+    'sRxtu',
+    'Error loading the video:',
+    'url',
+    'PxUww',
+    'zvruy',
+    'gypzY',
+    'IojyR',
+    'WICrM',
+    'noZzU',
+    'xcywl',
+    'BxbrM',
+    '43840GlPIoU',
+    'Jpnom',
+    'sounV',
+    'rgOrf',
+    '. Please try again later.',
+    'UAedj',
+    'uhKzX',
+    'cdgee',
+    'KiiWj',
+    'ovpbx',
+    'reloadPage',
+    'Failed to fetch the m3u8 URL.',
+    'Stream name element not found or invalid.',
+    'idghj',
+    'alert alert-danger',
+    'wzGUw',
+    'loadVideoBtn',
+    'ZVONK',
+    'lPmZY',
+    'xoqwz',
+    'JyBUz',
+    'SQFww',
+    '1218430omXTpQ',
+    'ETguz',
+    'Unable to load the video: ',
+    'zDJXo',
+    'uRSXm',
+    'pinterest',
+    'bdFLO',
+    'innerHTML',
+    'kiApF',
+    'sNLvI',
+    'iOOpw',
+    'YERDx',
+    'rTSrm',
+    'XvfKh',
+    'PJAxh',
+    'BREov',
+    'GsRxb',
+    'rQsll',
+    'className',
+    'dbHcU',
+    'KaAqT',
+    'click',
+    'tTEaM',
+    'twitter',
+    'URLtz',
+    'wEBXt',
+    'getAttribute',
+    'BWeaR',
+    'dxXnX',
+    'LUTCw',
+    'createElement',
+    'zlpnR',
+    'reddit',
+    'display',
+    'oIoob',
+    'VeLsp',
+    'OilES',
+    'ZzhwX',
+    'remove',
+    'forEach',
+    'nAoNJ',
+    'woZna',
+    'djWCG',
+    'vGwWA',
+    'zGnZC',
+    'gAXAq',
+    'gehJj',
+    'QoVYs',
+    'reload',
+    'cIXQU',
+    'tycwZ',
+    'aqZxY',
+    'zPaaz',
+    'KzXZJ',
+    'appendChild',
+    '\n                    <p>We encountered an issue while playing the video. Please try the following options:</p>\n                    <button id="retryVideo" class="btn btn-primary me-2">Retry</button>\n                    <button id="reloadPage" class="btn btn-warning">Reload Page</button>\n                ',
+    '100%',
+    'wobph',
+    'LCdud',
+    'BBCeR',
+    'ztxve',
+    'poNvl',
+    'error-message',
+    'AHrGA',
+    'mtVCl',
+    'WEgSY',
+    'add',
+    'style',
+    '4004350DDXTFp',
+    'div',
+    'HVMpK',
+    'GQQNW',
+    'm3u8 URL not found in the response.',
+    'Kfqle',
+    'lGJTR',
+    'GRrdR',
+    'hKGZL',
+    'MwtZq',
+    'PZyyM',
+    '12vJEkaL',
+    'mOhyW',
+    'tmLJG',
+    'error',
+    'qcwpC',
+    'MQPEH',
+    'SOSFP',
+    'NMgaf',
+    'KlKYy',
+    'BmQrq',
+    'retryVideo',
+    '63164Igqbzp',
+    'message',
+    'BwhKg',
+    'name',
+    'ZhREp',
+    'QGnKf',
+    '129ALFMqW'
+  ];
+  w = function (i, z) {
+    i = i - 231;
+    return u[i];
+  };
+  return w(n, x);
+}
+function v() {
+  const n = [
+    'XDSsd',
+    'nMCoU',
+    '/token/',
+    'Vnodc',
+    '1FIdwkI',
+    'getElementById',
+    'RzGpz',
+    '?quality=',
+    'amwUX',
+    'DceNW',
+    'KeChe',
+    'uzmzr',
+    'dxsKj',
+    'email',
+    'ksZSk',
+    'addEventListener',
+    'guhBJ',
+    'GLdtH',
+    'rCsHX',
+    'btn-primary',
+    'LgiYK',
+    'dKUYp',
+    'reEyQ',
+    'btn-secondary',
+    'IHdeZ',
+    'acSrS',
+    'OhudX',
+    'xBzcS',
+    '1744650zrGbyE',
+    'EZLMz',
+    'Zwvgx',
+    'cHfKE',
+    '486048nNxHsp',
+    'gSIXx',
+    'ZBxuN',
+    'Player encountered an error:',
+    'JmobN',
+    'Wpgci',
+    'AGrrg',
+    '40DdcAzz',
+    'XRCJs',
+    'classList',
+    'json',
+    '33631851ZRNyjI',
+    'sRxtu',
+    'Error loading the video:',
+    'url',
+    'PxUww',
+    'zvruy',
+    'gypzY',
+    'IojyR',
+    'WICrM',
+    'noZzU',
+    'xcywl',
+    'BxbrM',
+    '43840GlPIoU',
+    'Jpnom',
+    'sounV',
+    'rgOrf',
+    '. Please try again later.',
+    'UAedj',
+    'uhKzX',
+    'cdgee',
+    'KiiWj',
+    'ovpbx',
+    'reloadPage',
+    'Failed to fetch the m3u8 URL.',
+    'Stream name element not found or invalid.',
+    'idghj',
+    'alert alert-danger',
+    'wzGUw',
+    'loadVideoBtn',
+    'ZVONK',
+    'lPmZY',
+    'xoqwz',
+    'JyBUz',
+    'SQFww',
+    '1218430omXTpQ',
+    'ETguz',
+    'Unable to load the video: ',
+    'zDJXo',
+    'uRSXm',
+    'pinterest',
+    'bdFLO',
+    'innerHTML',
+    'kiApF',
+    'sNLvI',
+    'iOOpw',
+    'YERDx',
+    'rTSrm',
+    'XvfKh',
+    'PJAxh',
+    'BREov',
+    'GsRxb',
+    'rQsll',
+    'className',
+    'dbHcU',
+    'KaAqT',
+    'click',
+    'tTEaM',
+    'twitter',
+    'URLtz',
+    'wEBXt',
+    'getAttribute',
+    'BWeaR',
+    'dxXnX',
+    'LUTCw',
+    'createElement',
+    'zlpnR',
+    'reddit',
+    'display',
+    'oIoob',
+    'VeLsp',
+    'OilES',
+    'ZzhwX',
+    'remove',
+    'forEach',
+    'nAoNJ',
+    'woZna',
+    'djWCG',
+    'vGwWA',
+    'zGnZC',
+    'gAXAq',
+    'gehJj',
+    'QoVYs',
+    'reload',
+    'cIXQU',
+    'tycwZ',
+    'aqZxY',
+    'zPaaz',
+    'KzXZJ',
+    'appendChild',
+    '\n                    <p>We encountered an issue while playing the video. Please try the following options:</p>\n                    <button id="retryVideo" class="btn btn-primary me-2">Retry</button>\n                    <button id="reloadPage" class="btn btn-warning">Reload Page</button>\n                ',
+    '100%',
+    'wobph',
+    'LCdud',
+    'BBCeR',
+    'ztxve',
+    'poNvl',
+    'error-message',
+    'AHrGA',
+    'mtVCl',
+    'WEgSY',
+    'add',
+    'style',
+    '4004350DDXTFp',
+    'div',
+    'HVMpK',
+    'GQQNW',
+    'm3u8 URL not found in the response.',
+    'Kfqle',
+    'lGJTR',
+    'GRrdR',
+    'hKGZL',
+    'MwtZq',
+    'PZyyM',
+    '12vJEkaL',
+    'mOhyW',
+    'tmLJG',
+    'error',
+    'qcwpC',
+    'MQPEH',
+    'SOSFP',
+    'NMgaf',
+    'KlKYy',
+    'BmQrq',
+    'retryVideo',
+    '63164Igqbzp',
+    'message',
+    'BwhKg',
+    'name',
+    'ZhREp',
+    'QGnKf',
+    '129ALFMqW'
+  ];
+  v = function () {
+    return n;
+  };
+  return [
+    'XDSsd',
+    'nMCoU',
+    '/token/',
+    'Vnodc',
+    '1FIdwkI',
+    'getElementById',
+    'RzGpz',
+    '?quality=',
+    'amwUX',
+    'DceNW',
+    'KeChe',
+    'uzmzr',
+    'dxsKj',
+    'email',
+    'ksZSk',
+    'addEventListener',
+    'guhBJ',
+    'GLdtH',
+    'rCsHX',
+    'btn-primary',
+    'LgiYK',
+    'dKUYp',
+    'reEyQ',
+    'btn-secondary',
+    'IHdeZ',
+    'acSrS',
+    'OhudX',
+    'xBzcS',
+    '1744650zrGbyE',
+    'EZLMz',
+    'Zwvgx',
+    'cHfKE',
+    '486048nNxHsp',
+    'gSIXx',
+    'ZBxuN',
+    'Player encountered an error:',
+    'JmobN',
+    'Wpgci',
+    'AGrrg',
+    '40DdcAzz',
+    'XRCJs',
+    'classList',
+    'json',
+    '33631851ZRNyjI',
+    'sRxtu',
+    'Error loading the video:',
+    'url',
+    'PxUww',
+    'zvruy',
+    'gypzY',
+    'IojyR',
+    'WICrM',
+    'noZzU',
+    'xcywl',
+    'BxbrM',
+    '43840GlPIoU',
+    'Jpnom',
+    'sounV',
+    'rgOrf',
+    '. Please try again later.',
+    'UAedj',
+    'uhKzX',
+    'cdgee',
+    'KiiWj',
+    'ovpbx',
+    'reloadPage',
+    'Failed to fetch the m3u8 URL.',
+    'Stream name element not found or invalid.',
+    'idghj',
+    'alert alert-danger',
+    'wzGUw',
+    'loadVideoBtn',
+    'ZVONK',
+    'lPmZY',
+    'xoqwz',
+    'JyBUz',
+    'SQFww',
+    '1218430omXTpQ',
+    'ETguz',
+    'Unable to load the video: ',
+    'zDJXo',
+    'uRSXm',
+    'pinterest',
+    'bdFLO',
+    'innerHTML',
+    'kiApF',
+    'sNLvI',
+    'iOOpw',
+    'YERDx',
+    'rTSrm',
+    'XvfKh',
+    'PJAxh',
+    'BREov',
+    'GsRxb',
+    'rQsll',
+    'className',
+    'dbHcU',
+    'KaAqT',
+    'click',
+    'tTEaM',
+    'twitter',
+    'URLtz',
+    'wEBXt',
+    'getAttribute',
+    'BWeaR',
+    'dxXnX',
+    'LUTCw',
+    'createElement',
+    'zlpnR',
+    'reddit',
+    'display',
+    'oIoob',
+    'VeLsp',
+    'OilES',
+    'ZzhwX',
+    'remove',
+    'forEach',
+    'nAoNJ',
+    'woZna',
+    'djWCG',
+    'vGwWA',
+    'zGnZC',
+    'gAXAq',
+    'gehJj',
+    'QoVYs',
+    'reload',
+    'cIXQU',
+    'tycwZ',
+    'aqZxY',
+    'zPaaz',
+    'KzXZJ',
+    'appendChild',
+    '\n                    <p>We encountered an issue while playing the video. Please try the following options:</p>\n                    <button id="retryVideo" class="btn btn-primary me-2">Retry</button>\n                    <button id="reloadPage" class="btn btn-warning">Reload Page</button>\n                ',
+    '100%',
+    'wobph',
+    'LCdud',
+    'BBCeR',
+    'ztxve',
+    'poNvl',
+    'error-message',
+    'AHrGA',
+    'mtVCl',
+    'WEgSY',
+    'add',
+    'style',
+    '4004350DDXTFp',
+    'div',
+    'HVMpK',
+    'GQQNW',
+    'm3u8 URL not found in the response.',
+    'Kfqle',
+    'lGJTR',
+    'GRrdR',
+    'hKGZL',
+    'MwtZq',
+    'PZyyM',
+    '12vJEkaL',
+    'mOhyW',
+    'tmLJG',
+    'error',
+    'qcwpC',
+    'MQPEH',
+    'SOSFP',
+    'NMgaf',
+    'KlKYy',
+    'BmQrq',
+    'retryVideo',
+    '63164Igqbzp',
+    'message',
+    'BwhKg',
+    'name',
+    'ZhREp',
+    'QGnKf',
+    '129ALFMqW'
+  ];
+}
+(function (n, x) {
+  const i = n();
+  for (; [];)
+    try {
+      if (489797 === x)
+        break;
+      i.push(i.shift());
+    } catch {
+      i.push(i.shift());
+    }
+}(v, 489797));
+document.addEventListener('DOMContentLoaded', () => {
+  const x = {
+    wEBXt: function (o) {
+      return o();
+    },
+    acSrS: 'none',
+    Jpnom: 'btn-primary',
+    hKGZL: 'btn-secondary',
+    nAoNJ: 'Failed to fetch the m3u8 URL.',
+    mtVCl: function (o) {
+      return o();
+    },
+    PxUww: 'click',
+    cdgee: function (o, e) {
+      return o === e;
+    },
+    Vnodc: 'cHLsE',
+    ZBxuN: function (o, e) {
+      return o !== e;
+    },
+    uRSXm: 'JoPmW',
+    tmLJG: 'guhBJ',
+    BREov: 'Player encountered an error:',
+    Kfqle: 'my-jwplayer',
+    xEgmu: 'div',
+    uhKzX: 'error-message',
+    hBvnQ: 'alert alert-danger',
+    reEyQ: 'retryVideo',
+    UAedj: 'reloadPage',
+    ZzhwX: 'm3u8 URL not found in the response.',
+    rgOrf: 'idghj',
+    dxXnX: function (o, e) {
+      return o(e);
+    },
+    zvruy: function (o, e, t) {
+      return o(e, t);
+    },
+    gehJj: function (o, e) {
+      return o !== e;
+    },
+    gSIXx: 'RRfRK',
+    Zwvgx: function (o, e) {
+      return o !== e;
+    },
+    DceNW: 'BWeaR',
+    vSgcZ: function (o, e) {
+      return o(e);
+    },
+    RzGpz: 'rTSrm',
+    vGwWA: 'ztxve',
+    xQkFv: '100%',
+    IHdeZ: '16:9',
+    MCPly: 'facebook',
+    GRrdR: 'twitter',
+    URLtz: 'email',
+    dbHcU: 'pinterest',
+    EZLMz: 'reddit',
+    XvfKh: 'error',
+    cHfKE: function (o, e) {
+      return o === e;
+    },
+    AGrrg: 'ksZSk',
+    kiApF: 'woZna',
+    LCdud: 'Error loading the video:',
+    ETguz: function (o, e) {
+      return o(e);
+    },
+    djWCG: function (o, e) {
+      return o(e);
+    },
+    JmobN: 'oIoob',
+    XDSsd: 'zDJXo',
+    cdvYi: 'FQxsM',
+    QGnKf: 'MQPEH',
+    zPaaz: function (o, e) {
+      return o(e);
+    },
+    JyBUz: function (o, e) {
+      return o !== e;
+    },
+    xBzcS: 'KzXZJ',
+    bdFLO: 'nMCoU',
+    wobph: function (o) {
+      return o();
+    },
+    ZhREp: 'Stream name element not found or invalid.',
+    bkhLf: 'cPpmp',
+    sNLvI: 'tycwZ',
+    lPmZY: function (o, e) {
+      return o(e);
+    },
+    YERDx: function (o, e, t) {
+      return o(e, t);
+    },
+    KiiWj: 'stream_name',
+    LUTCw: 'name',
+    xcywl: function (o, e) {
+      return o !== e;
+    },
+    amwUX: 'luUzy',
+    mOhyW: 'loadVideoBtn',
+    Wpgci: 'loadVideoSD',
+    OilES: 'loadVideoHD',
+    lGJTR: function (o, e) {
+      return o === e;
+    },
+    aqZxY: 'GLdtH',
+    WCwug: 'ZVONK',
+    SOSFP: function (o, e) {
+      return o && e;
+    }
+  };
+  const u = document.getElementById('stream_name');
+  const i = u == null ? void 0 : u.getAttribute('name');
+  if (!i) {
+    console.error('Stream name element not found or invalid.');
+    return;
+  }
+  const z = '/token/' + i;
+  async function g(o = 'sd') {
+    const t = {
+      BxbrM: 'btn-primary',
+      PJAxh: 'btn-secondary',
+      NMgaf: 'Failed to fetch the m3u8 URL.',
+      AHrGA: function (d) {
+        return x.mtVCl(d);
+      },
+      IojyR: 'none',
+      xoqwz: 'click',
+      KeChe: function (d, a) {
+        return x.cdgee(d, a);
+      },
+      uzmzr: 'cHLsE',
+      BwhKg: function (d) {
+        return x.mtVCl(d);
+      },
+      QoVYs: function (d, a) {
+        return x.ZBxuN(d, a);
+      },
+      VeLsp: 'JoPmW',
+      KlKYy: 'guhBJ',
+      SLUeR: function (d) {
+        return x.wEBXt(d);
+      },
+      HVMpK: 'Player encountered an error:',
+      WEgSY: 'my-jwplayer',
+      XRCJs: 'div',
+      SQFww: 'error-message',
+      cIXQU: 'alert alert-danger',
+      dxsKj: 'retryVideo',
+      LgiYK: 'reloadPage',
+      noZzU: 'm3u8 URL not found in the response.',
+      sRxtu: 'idghj',
+      zlpnR: function (d, a) {
+        return x.dxXnX(d, a);
+      },
+      MwtZq: function (d, a, c) {
+        return x.zvruy(d, a, c);
+      }
+    };
+    const d = z + '?quality=' + o;
+    try {
+      const a = await x.vSgcZ(fetch, d);
+      if (!a.ok)
+        throw new Error('Failed to fetch the m3u8 URL.');
+      const c = await a.json();
+      const s = c.url;
+      if (!c.url)
+        throw new Error('m3u8 URL not found in the response.');
+      const p = x.vSgcZ(jwplayer, 'my-jwplayer');
+      p.setup({
+        file: c.url,
+        width: '100%',
+        aspectratio: '16:9',
+        mute: false,
+        autostart: true,
+        cast: {},
+        airplay: true,
+        sharing: {
+          sites: [
+            'facebook',
+            'twitter',
+            'email',
+            'pinterest',
+            'reddit'
+          ]
+        }
+      });
+      p.on('error', l => {
+        const _ = {
+          OhudX: function (m) {
+            return t.SLUeR(m);
+          },
+          poNvl: 'Player encountered an error:',
+          ZWQYA: 'my-jwplayer',
+          rCsHX: 'div',
+          ovpbx: 'error-message',
+          BBCeR: 'alert alert-danger',
+          MvYgW: 'retryVideo',
+          sounV: 'click',
+          GQQNW: 'reloadPage',
+          rQsll: 'm3u8 URL not found in the response.'
+        };
+        console.error('Player encountered an error:', l.message);
+        const m = document.getElementById('my-jwplayer');
+        const h = document.createElement('div');
+        h.id = 'error-message';
+        h.className = 'alert alert-danger';
+        h.innerHTML = '\n                    <p>We encountered an issue while playing the video. Please try the following options:</p>\n                    <button id="retryVideo" class="btn btn-primary me-2">Retry</button>\n                    <button id="reloadPage" class="btn btn-warning">Reload Page</button>\n                ';
+        m.appendChild(h);
+        document.getElementById('retryVideo').addEventListener('click', () => {
+          h.remove();
+          t.BwhKg(g);
+        });
+        document.getElementById('reloadPage').addEventListener('click', () => {
+          const b = {
+            wzGUw: function (Z) {
+              return t.AHrGA(Z);
+            }
+          };
+          location.reload();
+        });
+      });
+    } catch (a) {
+      console.error('Error loading the video:', a);
+      x.ETguz(alert, 'Unable to load the video: ' + a.message + '. Please try again later.');
+    }
+  }
+  function L(o, e) {
+    const d = {
+      gypzY: function (a, c) {
+        return x.djWCG(a, c);
+      },
+      qcwpC: function (a, c, s) {
+        return x.zvruy(a, c, s);
+      },
+      gAXAq: function (a, c) {
+        return x.gehJj(a, c);
+      },
+      tTEaM: 'oIoob',
+      zGnZC: 'zDJXo',
+      KaAqT: 'btn-primary',
+      iOOpw: 'btn-secondary',
+      hwCzb: function (a, c) {
+        return x.djWCG(a, c);
+      }
+    };
+    o.classList.remove('btn-secondary');
+    o.classList.add('btn-primary');
+    e.forEach(a => {
+      a.classList.remove('btn-primary');
+      a.classList.add('btn-secondary');
+    });
+  }
+  const R = document.getElementById('loadVideoBtn');
+  const y = document.getElementById('loadVideoSD');
+  const E = document.getElementById('loadVideoHD');
+  if (R) {
+    R.addEventListener('click', function () {
+      x.wobph(g);
+      this.style.display = 'none';
+    });
+  }
+  if (x.SOSFP(y, E)) {
+    y.addEventListener('click', function () {
+      x.lPmZY(g, 'sd');
+      x.zvruy(L, y, [E]);
+    });
+    E.addEventListener('click', function () {
+      x.dxXnX(g, 'hd');
+      x.YERDx(L, E, [y]);
+    });
+  }
+});
