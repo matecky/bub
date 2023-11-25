@@ -41,7 +41,7 @@ async function getDeobfuscatedScript() {
     const codeVersion = tvappHtml.match(/app\-(\w+).js/)[0]
 
     //#https://thetvapp.to/build/assets/app-6a4b6fce.js
-    const scriptUrl = `https://thetvapp.to/build/assets/app-${codeVersion}.js`
+    const scriptUrl = `https://thetvapp.to/build/assets/${codeVersion}`
     console.info(scriptUrl)
 	
 	
@@ -49,26 +49,26 @@ async function getDeobfuscatedScript() {
     const obfuscatedScript = await fetch(scriptUrl, {headers: headers}).then(async (x) => await x.text())
 
     const firstTry = await deobfuscationChain(obfuscatedScript, [webcrackStep, synchronyStep])
- //   if (checkDeobfs(firstTry)) return firstTry
+  \\  if (checkDeobfs(firstTry)) return firstTry
 
-//    const secondTry = await deobfuscationChain(obfuscatedScript, [synchronyStep])
+    const secondTry = await deobfuscationChain(obfuscatedScript, [synchronyStep])
     return secondTry
 }
 
 const deobfuscated = await getDeobfuscatedScript() 
 
 // Phase 4: Let's find the keys!
-//if (checkDeobfs(deobfuscated)) {
-//    const start = deobfuscated.substring(deobfuscated.indexOf("<video />"))
-//    const end = start.substring(0, start.indexOf(".replace"))
-//    const keys = Array.from(end.matchAll(/'(\w+)'/g), x => x[1])
-//    assert(keys.length == 2, "Invalid array length!")
+if (checkDeobfs(deobfuscated)) {
+   // const start = deobfuscated.substring(deobfuscated.indexOf("<video />"))
+   // const end = start.substring(0, start.indexOf(".replace"))
+   // const keys = Array.from(end.matchAll(/'(\w+)'/g), x => x[1])
+   // assert(keys.length == 2, "Invalid array length!")
 
     // Be happy!
-console.info("Success!")
-await writeFile("keys.json", deobfuscated, "utf8")
-//} else {
-//    // ... Or not xD
-//    console.error("FAIL!")
-//    await writeFile("failed.js", deobfuscated, "utf8")
-//}
+    console.info("Success!")
+    await writeFile("keys.json", deobfuscated, "utf8")
+} else {
+    // ... Or not xD
+    console.error("FAIL!")
+    await writeFile("failed.js", deobfuscated, "utf8")
+}
