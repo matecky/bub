@@ -19,8 +19,13 @@ import { assert } from "node:console"
 
 async function deobfuscationx(obfuscatedScript) {
     let deobfs = obfuscatedScript
-    deobfs = await new REstringer(deobfs)
-    return deobfs.script
+    const restringer = new REstringer(deobfs)
+    if (restringer.deobfuscate()) {
+	console.info("okejowo");
+    } else {
+ 	 console.info("udane???");
+    }
+    return restringer.script
 }
 
 //const synchrony = new Deobfuscator()
