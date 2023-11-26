@@ -3,7 +3,7 @@ name: Update keys
 on:
   schedule:
     # Run every 20 minutes
-    - cron:  '*/20 * * * *'
+    - cron:  '*/60 * * * *'
   workflow_dispatch:
 
 jobs:
