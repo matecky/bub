@@ -19,7 +19,7 @@ import { assert } from "node:console"
 
 async function deobfuscationx(obfuscatedScript) {
     let deobfs = obfuscatedScript
-    const restringer = new REstringer(deobfs)
+    const restringer = await new REstringer(deobfs)
     if (restringer.deobfuscate()) {
 	console.info("okejowo");
     } else {
